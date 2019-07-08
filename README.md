@@ -1,2 +1,3 @@
 # Team_name
+Data sonification - possibly a better representation of meteorological data, and a new idea for music composition.
 Content to be added...
