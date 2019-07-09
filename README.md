@@ -7,8 +7,8 @@ Our project provides a method to transform meteorological data into a unique pie
 
 **Our approaches include:**
 - Find data from databases: 
-  1. **annual temperature of Ontario from 1930 to 2016** (hereinafter referred to as *temp_data*), 
-  2. **annual total number of natural disasters in Ontario from 1930 to 2016** (hereinafter referred to as *count_disaster*).
+    1. **annual temperature of Ontario from 1930 to 2016** (hereinafter referred to as *temp_data*), 
+    2. **annual total number of natural disasters in Ontario from 1930 to 2016** (hereinafter referred to as *count_disaster*).
 - Statistical analysis using **SAS**: write scripts to analyse the correlation of *temp_data* and *count_disaster*. 
 - **Javascript** JSON to CSV converter: extract relevent data, and convert machine readable format JSON to human readable format CSV.
 - Employ a **Music Algorithm** to transform the CSV to MIDI: `pitch input` = *temp_data*, and `note-duration input` = inverse of *count_disaster*. That is, at a specific instant of time, the higher a pitch is, the hotter that year used to be; the faster the notes are played, the more natural disasters that year used to have.
