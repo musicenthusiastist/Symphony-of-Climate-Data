@@ -10,6 +10,8 @@ Our project provides a method to transform meteorological data into a unique pie
 - Statistical analysis using **SAS**: write scripts to analyse the correlation of *temp_data* and *count_disaster*. 
 - **Javascript** JSON to CSV converter: extract relevent data, and convert machine readable format JSON to human readable format CSV.
 - Employ a **Music Algorithm** to transform the CSV to MIDI: `pitch input` = *temp_data*, and `note-duration input` = inverse of *count_disaster*. That is, at a specific instant of time, the higher a pitch is, the hotter that year used to be; the faster the notes are played, the more natural disasters that year used to have.
-- **Music composition** in **Digital Audio Workstation (DAW)**: find an appropriate key (C minor, in our case), listen to the MIDI's pattern, get an understanding of what this pattern conveys, then compose background music based on the above. Add the MIDI on top. 
+- **Music composition** in **Digital Audio Workstation (DAW)**: find an appropriate key (C minor, in our case), listen to the MIDI's pattern, get an understanding of what this pattern conveys, then compose background music based on the above. Lastly, add the MIDI on top. 
+
+This project is meant to show how data science and artworks can be combined; and to explore new ways of data representations.
 
 
