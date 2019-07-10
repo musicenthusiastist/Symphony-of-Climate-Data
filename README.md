@@ -1,5 +1,6 @@
 # Team Data-Quintet
 ![Data-Quintet](https://github.com/musicenthusiastist/Symphony-of-Climate-Data/blob/master/Images/OurIdea.JPG "Our Interpretation of Sonification")
+
 **Project Descriptions**
 
 Have you ever wondered how data can be represented aurally? And fellow musicians, are you looking for new inspirations of your music? If you answered yes, I encourage you to take a look at our **Data Sonification** project. 
