@@ -1,4 +1,4 @@
-# Team_XX
+# Team_Data-Quintet
 **Project Descriptions**
 
 Have you ever wondered how data can be represented aurally? And to musicians/ music lovers: are you looking for new inspirations of your music? If you answered yes, I encourage you to take a look at our **Data Sonification** project. 
