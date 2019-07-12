@@ -23,7 +23,7 @@ Our project provides a method to transform meteorological data into a unique pie
   + compose intro, backing track, and ending.
 - Postproduction
 
-This project is meant to:
+**This project is meant to:**
   1. Demonstrate how data science and artworks can be combined. 
   2. Explore new ways of data representations. 
   3. Be used in non-profit commercials to call for public awareness about climate change. 
