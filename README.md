@@ -28,5 +28,7 @@ This project is meant to:
   2. Explore new ways of data representations. 
   3. Be used in non-profit commercials to call for public awareness about climate change. 
 
-
+<a href="https://www.youtube.com/watch?v=KWMnSSIYstY
+" target="_blank"><img src="http://img.youtube.com/vi/KWMnSSIYstY/0.jpg" 
+alt="Data_Soni_Project" width="530" height="350" border="10" /></a>
 
